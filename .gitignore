@@ -1,0 +1,6 @@
+# Ignore directory
+.idea/
+target/
+
+# Ignore single file
+weatherlevel_outfit_recommender.iml
